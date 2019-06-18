@@ -14,3 +14,8 @@ e.g. for linux:
     
 ## Exercises
 
+* Airplane: this app is divided in 2 sections
+  * Airport Panel: let's you add planes and flights to the airport
+  * Flight Service: gives informations about the flights and planes you have previously added to the airport
+
+  this exercise was aimed to practice the basics of OOP already gained. (MOOC part 2, exercise 8)
