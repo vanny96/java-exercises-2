@@ -19,3 +19,5 @@ e.g. for linux:
   * Flight Service: gives informations about the flights and planes you have previously added to the airport
 
   this exercise was aimed to practice the basics of OOP already gained. (MOOC part 2, exercise 8)
+
+* Car Registration: this exercise let me practice on declaring customized equals() and hashCode() methods for my custom classes, in order to override the default ones inherithed from the Object class. Running the App only shows that the app is working as supposed.
