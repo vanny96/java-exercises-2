@@ -20,4 +20,6 @@ e.g. for linux:
 
   this exercise was aimed to practice the basics of OOP already gained. (MOOC part 2, exercise 8)
 
-* Car Registration: this exercise let me practice on declaring customized equals() and hashCode() methods for my custom classes, in order to override the default ones inherithed from the Object class. Running the App only shows that the app is working as supposed.
+* Car Registration: this exercise let me practice on declaring customized equals() and hashCode() methods for my custom classes, in order to override the default ones inherithed from the Object class. Running the App only shows that the app is working as supposed. (MOOC part 2, exercise 9)
+
+* Storehouse: this app let's you purchase from an hypothetical store. This was aimed to practice the use of Java default interfaces like Map and Set. (MOOC part 2, exercise 12)

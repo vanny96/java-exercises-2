@@ -5,6 +5,13 @@
       "name": "CodeLens (Launch) - App",
       "request": "launch",
       "mainClass": "com.vanny96.App",
+      "projectName": "storehouse"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - App",
+      "request": "launch",
+      "mainClass": "com.vanny96.App",
       "projectName": "car-registration"
     }
   ]
