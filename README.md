@@ -29,3 +29,5 @@ e.g. for linux:
 * Ski Jumping: this little app simulates a ski jumping simulator. First you'll enter the name of the jumpers, then you'll make them compete by typing "jump" when prompted to do so. Once you've had enough it will display all the ranking (Sorted using the comparable interface). (MOOC part 2, exercise 16) 
 
 * Sensors: in this exercises I practiced again the interfaces, and put to use the newly acquired knowledge about exceptions and how to throw them. (MOOC part 2, exercise 20)
+
+* Word Inspection: this exercise is aimed to practice File reading. (MOOC part 2, exercise 23)
