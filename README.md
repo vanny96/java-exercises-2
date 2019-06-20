@@ -30,6 +30,9 @@ e.g. for linux:
 
 * Sensors: in this exercises I practiced again the interfaces, and put to use the newly acquired knowledge about exceptions and how to throw them. (MOOC part 2, exercise 20)
 
-* Word Inspection: this exercise is aimed to practice File reading. (MOOC part 2, exercise 23)
+* Word Inspection: this exercise is aimed to practice File reading adn File writing. (MOOC part 2, exercise 23)
 
 * Phone Register: with this app I created a phone register capable of saving multiple numbers for the same user (By using an HashMap<String, List<String>>) and his address. It has multiple functions to look up the stored informations. (MOOC part 2, exercise 26)
+
+* Farm Simulator: strange exercise, its purpouse was to teach that even tough we had just learnt how to implement inheritance and interfaces, it would be hard to know when to implement them, and that most problems will be first resolved without using these tools and then the solution of said problem will be improved.
+Anyway this exercise simulates a farm where cows produce milk... make of this what you want.
